@@ -12,7 +12,7 @@ export default function Hero(){
                 <div className="flex flex-row">
                     <div className="flex flex-col gap-4 xl:pl-28 px-4 md:pl-8 z-5">
 
-                        <div className="flex flex-col gap-4 mt-56 items-center justify-center text-center md:items-start md:text-start md:mt-40">
+                        <div className="flex flex-col gap-4 mt-36 items-center justify-center text-center md:items-start md:text-start md:mt-40">
 
                             <p className="text-black font-bold text-xl">Plan your trip now</p>
 
