@@ -35,9 +35,9 @@ export default function Hero(){
                     </div>
                     <div className="relative top-0 right-0 z-3  hidden md:block">
                         {/* car img */}
-                        <Image className="" src={heroBg} height={900} />
+                        <Image className="" src={heroBg} height={900} alt="background" />
                         <div className="">
-                             <Image className="absolute xl:top-48 md:top-32 top-16 xl:right-36 md:right-28 z-4" src={mainCar} height={500} />
+                             <Image className="absolute xl:top-48 md:top-32 top-16 xl:right-36 md:right-28 z-4" src={mainCar} height={500} alt="car" />
                         </div>
                     </div>
                 </div>

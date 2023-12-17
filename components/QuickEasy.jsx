@@ -15,19 +15,19 @@ export default function QuickEasy(){
 
                 <div className="flex flex-col md:flex-row items-center justify-between gap-10 md:gap-20 xl:gap-40 mt-20">
                     <div className="flex flex-col gap-2 text-center items-center w-[17rem]">
-                        <Image src={carLogo_1} height={200} />
+                        <Image src={carLogo_1} height={200} alt="img" />
                         <h4 className="font-bold text-2xl">Select Car</h4>
                         <p className="font-light">We offers a big range of vehicles for all your driving needs. We have the perfect car to meet your needs</p>
                     </div>
                     <div className="flex flex-col gap-2 text-center items-center w-[17rem]">
-                        <Image src={carLogo_3} height={200} />
+                        <Image src={carLogo_3} height={200} alt="img" />
                         <h4 className="font-bold text-2xl">Contact Operator</h4>
                         <p className="font-light">Our knowledgeable and friendly operators are always ready to help with any questions or concerns</p>
                     </div>
                     <div className="flex flex-col gap-2 text-center items-center w-[17rem]">
-                        <Image src={carLogo_2} height={200} />
-                        <h4 className="font-bold text-2xl">Let's Drive</h4>
-                        <p className="font-light">Whether you're hitting the open road, we've got you covered with our wide range of cars</p>
+                        <Image src={carLogo_2} height={200} alt="img" />
+                        <h4 className="font-bold text-2xl">Let&apos;s Drive</h4>
+                        <p className="font-light">Whether you&apos;re hitting the open road, we&apos;ve got you covered with our wide range of cars</p>
                     </div>
                 </div>
             </div>

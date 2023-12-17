@@ -11,7 +11,7 @@ export default function Header(){
 
             <div>
                 <Link href="/">
-                    <Image src={logo} height={48} />
+                    <Image src={logo} height={48} alt="logo" />
                 </Link>
             </div>
 
